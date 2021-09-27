@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://smitaikale.github.io/csb-hpiug/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://smitaikale.github.io/csb-hpiug/static/js/main.dc3b6486.chunk.js",
+    "main.js.map": "https://smitaikale.github.io/csb-hpiug/static/js/main.dc3b6486.chunk.js.map",
+    "runtime-main.js": "https://smitaikale.github.io/csb-hpiug/static/js/runtime-main.e4d8fae8.js",
+    "runtime-main.js.map": "https://smitaikale.github.io/csb-hpiug/static/js/runtime-main.e4d8fae8.js.map",
+    "static/js/2.f243416a.chunk.js": "https://smitaikale.github.io/csb-hpiug/static/js/2.f243416a.chunk.js",
+    "static/js/2.f243416a.chunk.js.map": "https://smitaikale.github.io/csb-hpiug/static/js/2.f243416a.chunk.js.map",
+    "index.html": "https://smitaikale.github.io/csb-hpiug/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://smitaikale.github.io/csb-hpiug/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f243416a.chunk.js.LICENSE.txt": "https://smitaikale.github.io/csb-hpiug/static/js/2.f243416a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4d8fae8.js",
+    "static/js/2.f243416a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.dc3b6486.chunk.js"
+  ]
+}
